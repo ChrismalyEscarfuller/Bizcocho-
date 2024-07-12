@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720745334 source:c:\users\pc\desktop\tarea 8\tarea 8\tarea8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
